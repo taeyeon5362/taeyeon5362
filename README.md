@@ -19,6 +19,7 @@ Hello, I'm Taeyeon Kim, dreaming of becoming a data engineer.📚
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=00539C&height=200&section=footer)
 
 </div>
