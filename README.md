@@ -1,6 +1,6 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFD662&height=150&section=header&text=TAEYEON&fontColor=00539C&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+### Hi there 👋
 
 Tech Skills
 
@@ -23,7 +23,7 @@ Tech Skills
 
 
 
-### Hi there 👋
+
 
 <!--
 **taeyeon5362/taeyeon5362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
