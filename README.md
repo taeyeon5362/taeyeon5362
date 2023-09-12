@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FFD662&fontColor=00539C&height=300&section=header&text=LIKELION&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFD662&fontColor=00539C&height=300&section=header&text=TaeYeon+Kim&fontSize=80" />
 
 ### Hi there 👋
-Hello, I'm likelion, dreaming of becoming a block chain engineer.📚
+Hello, I'm Taeyeon Kim, dreaming of becoming a data engineer.📚
 
 
 ### ✨ Tech Stack ✨
