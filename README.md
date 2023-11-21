@@ -20,9 +20,6 @@ Hello, I'm Taeyeon Kim, dreaming of becoming a data engineer.📚
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon5362&layout=compact&theme=tokyonight)
-
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=00539C&height=200&section=footer)
 
 </div>
