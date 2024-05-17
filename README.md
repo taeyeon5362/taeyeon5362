@@ -18,6 +18,7 @@ Hello, I'm Taeyeon Kim, dreaming of becoming a data engineer.📚
 
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon5362&layout=compact)
 
 
